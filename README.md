@@ -23,8 +23,9 @@ Open the stroke_prediction.ipynb notebook to see the data analysis and modeling 
 ##Data
 The dataset used in this project is from Kaggle and contains information about patients, including their age, gender, medical history, and whether they have had a stroke.
 
-##Results
-The final model achieved an accuracy of 94.03% on the test set. Detailed results and analysis can be found in the stroke_prediction.ipynb notebook.
+## Results
+
+The final model achieved an accuracy of 94.03% on the test set. This means that our model correctly predicts whether a patient will have a stroke or not 94.03% of the time based on their medical data. Detailed results and analysis can be found in the stroke_prediction.ipynb notebook.
 
 ##Authors
  • Elaheh Shaghaghian (elaheh.shn1@gmail.com)
